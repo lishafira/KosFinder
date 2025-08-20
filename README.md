@@ -12,4 +12,4 @@
 ### 
 
 <h2 align="left">Fitur tambahan:</h2>
-<p align="left">1. Filter harga (misalnya berdasarkan alfabet, murah ke mahal).<br>2. Jadwal survei kos.
+<p align="left">1. Filter harga (misalnya berdasarkan alfabet, murah ke mahal).<br>2. Jadwal survei kos.</p>
