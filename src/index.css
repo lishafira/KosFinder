@@ -25,3 +25,8 @@
   background-position: center;
 }
 
+.bg-kos {
+  background-image: url('../public/gambarKos.png');
+  background-size: cover;
+  background-position: center;
+}
