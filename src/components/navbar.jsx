@@ -3,9 +3,9 @@ import "../index.css"
 
 export default function Navbar() {
     return (
-    <header className="bg-none shadow-md h-19 justify-between flex">
+    <header className="bg-none shadow-md h-19 justify-between flex fixed top-0 left-0 w-full z-50">
         {/** BAGIAN KIRI */}
-        <div className="bg-orange-300 w-[50%] px-5">
+        <div className="w-[50%] px-5">
             {/** KIRI ATAS */}
             <div className='flex w-50 h-max'>
                 <img src="logoKos.png" alt="logoKos" className='h-10'/>
@@ -24,8 +24,8 @@ export default function Navbar() {
             </div>
         </div>
         {/** BAGIAN KANAN */}
-        <div className='w-[50%]'>
-            <div className=''></div>
+        <div className='w-[50%] justify-end flex items-center pr-5  '>
+            <div className='p-4 rounded-full bg-amber-500'></div>
         </div>
     </header>
     );

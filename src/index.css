@@ -15,3 +15,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+@theme{
+  --color-cream: #DDC9B4; 
+}
+
+.bg-image {
+  background-image: url('../public/gambarKos.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-kos {
+  background-image: url('../public/gambarKos.png');
+  background-size: cover;
+  background-position: center;
+}
