@@ -18,20 +18,6 @@ const Footer = () => {
             <p className="text-gray-300 mb-4">
               Platform Penemu Kos Terbaik Sesuai Kebutuhanmu!
             </p>
-            <div className="flex space-x-4">
-              <a href="#" className="text-gray-300 hover:text-white transition">
-                <FaFacebook size={20} />
-              </a>
-              <a href="#" className="text-gray-300 hover:text-white transition">
-                <FaTwitter size={20} />
-              </a>
-              <a href="#" className="text-gray-300 hover:text-white transition">
-                <FaInstagram size={20} />
-              </a>
-              <a href="#" className="text-gray-300 hover:text-white transition">
-                <FaLinkedin size={20} />
-              </a>
-            </div>
           </div>
 
           {/* Quick Links */}
